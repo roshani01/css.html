@@ -1,0 +1,29 @@
+
+.c1{
+    border: 2px solid blueviolet;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+}
+.c2{
+    border: 2px solid palevioletred;
+    padding: 5px;
+    margin: 5px;
+    background-color: palegoldenrod;
+} 
+
+.c3{
+    border: 2px solid blue;
+    padding: 5px;
+    margin: 5px;
+    background-color: gold;
+    position: relative;
+    top: 0px;
+    bottom: 10px;
+}
+.c4{
+    border: 2px solid gray;
+    padding: 5px;
+    margin: 5px;
+    background-color: pink;
+}

@@ -1,0 +1,21 @@
+.c1{
+    border: blue;
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+}
+.c2{
+    border: black;
+    background-color:gold;
+    padding: 20px;
+    margin: 20px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+.c3{
+    border: red;
+    background-color: rebeccapurple;
+    padding: 20px;
+    margin: 20px;
+}
